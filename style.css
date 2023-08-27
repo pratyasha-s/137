@@ -1,0 +1,59 @@
+body{
+    background: url(https://i.pinimg.com/564x/de/76/f4/de76f4bc8ce768efc19c446d60d5e72d.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+ 
+    font-size: 30px;
+    font-family:Georgia;
+    color: rgb(99, 15, 118);
+    text-shadow: 5px 5px 5px white;
+    background-color: rgb(64, 184, 182);
+   border:5px solid yellow ;
+    width: 100%;
+}
+#start{
+    font-size: 18px;
+    width: 130px;
+    border: 3px solid  white ;
+    background-color: rgb(240, 133, 87);
+    
+    
+    
+}
+#number_of_objects ,#status{
+    font-size: 18px;
+}
+#copyright_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(4, 4, 4);
+    color:yellow;
+    line-height: 3;
+    width: 100%;
+    font-size: 15px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius:10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px rgb(93, 100, 24);
+    margin-top: 50;
+    
+}
+input{
+  
+    text-align: center;
+    color:black;
+    width:200px;
+    height:40px;
+    font-size:20px;
+    border:2px solid pink;
+    border-radius:20px;
+    margin-bottom:10px;
+  }
+    
